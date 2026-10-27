@@ -1,0 +1,12 @@
+app/tmp/
+app/routes/
+target/
+test-results/
+log/
+.git/
+.idea/
+.vscode/
+*.exe
+*.log
+.env
+Dockerfile

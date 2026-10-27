@@ -1,0 +1,6 @@
+
+# Sales Insert
+POST   /api/v1/sales/addSales     SalesModule.AddSales
+
+# Sales Report
+GET    /api/v1/sales/getReport    SalesModule.GetReport
